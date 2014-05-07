@@ -1,5 +1,8 @@
 # UXE - Git Chopstix
 
+Chey Yeary has been here
+
+
 For this assignment, practice practice practice. Fork, clone, add folder, add content, merge, push and pull request.
 
 Feel free to do this as much as you want to get comfortable with these concepts.
