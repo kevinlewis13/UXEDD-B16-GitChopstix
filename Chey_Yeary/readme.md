@@ -1,6 +1,4 @@
 # UXE - Git Chopstix
-maxbrockman453
-
 
 Chey Yeary has been here
 
